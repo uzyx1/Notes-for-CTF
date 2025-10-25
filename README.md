@@ -101,12 +101,4 @@ grep -R --include='*.py' 's3cr3t' .
 ```
 - If you’re unsure about escaping in regex, enclose patterns in single quotes on Unix shells to avoid shell interpolation.
 
----
 
-## Contributing
-Open an issue or submit a PR with corrections, additions, or other commands you find useful.
-
----
-
-## License
-This repository is for personal notes. Feel free to reuse or adapt these snippets for personal learning or CTF practice.
